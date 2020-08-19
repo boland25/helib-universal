@@ -24,6 +24,8 @@ In the dropdown add the git url of this repo `git@github.com:boland25/helib-univ
 
 After it fetches the repo, make suyre to choose the `master` branch for this repo as there are no versions to choose.
 
+![Step two image](/Documentation/Images/Step%202_2.png?raw=true "Add dependency")
+
 ### Step 3:
 Xcode will add this library to your project and you can now start to import the library into your classes and utilize.
 
