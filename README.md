@@ -6,6 +6,8 @@ This is a copy of the public open source HElib repo but developed to run on  
 
 This library requires the use of `Xcode 12.0 beta 4 (12A8179i)` or above.  At this time it will currently not work on anything lower due to the use of new Swift Package Manager features that are only available in Swift 5.3 and Xcode 12.
 
+To download the Xcode 12 Beta, head on over to [developer.apple.com](developer.apple.com), sign in, and Choose the `Downloads` page on the left hand menu.  Under the Applications tab there you will find the latest Xcode beta.
+
 ![Xcode version](/Documentation/Images/xcode_beta.png?raw=true "Xcode version")
 
 ## How to Use
