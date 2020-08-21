@@ -21,11 +21,7 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .target(
             name: "HElib",
-            dependencies: ["NTL", "GMP"]
-        ),
-        .binaryTarget(
-            name: "GMP",
-            path: "artifacts/gmp.xcframework"
+            dependencies: ["NTL"]
         ),
         .binaryTarget(
             name: "NTL",
